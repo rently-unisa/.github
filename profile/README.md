@@ -33,7 +33,7 @@ Grazie per essere parte della comunità Rently!
 ## 💚 Il nostro Team
 
 ### Project Manager
-> [LucoMoro](https://github.com/LucoMoro) e [DG266](https://github.com/rarissimaavis)
+> [LucoMoro](https://github.com/LucoMoro) e [DG266](https://github.com/DG266)
 
 ### Team Member
 > [gaudiosi](https://github.com/gaudiosi), [rarissimaavis](https://github.com/rarissimaavis), [teadesimone](https://github.com/teadesimone), [FieryLux](https://github.com/FieryLux), [LucaGagliardi1](https://github.com/LucaGagliardi1) e [Ndoniii](https://github.com/Ndoniii)
